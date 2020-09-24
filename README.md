@@ -1,7 +1,7 @@
 # explain.how_to_jump_to_def.vscode
 VSCode で PHP のコードジャンプ「定義元にジャンプ」をできるようにする方法を説明する。
 
-
+![VSCode で PHP のコードジャンプ](./jump_to_def.vscode.gif)
 
 ## VSCode で PHP のコードジャンプをできるようにする
 まず、以下の 2 つ拡張機能をインストールする。
